@@ -85,12 +85,14 @@ Therefore COUT = AB + C-IN (A EX – OR B)
      - Chinmay panda, IIT Hyderabad
      - Sameer Durgoji, NIT Karnataka
      
- # References
-    . S. Dhanjal. 1-Bit Full Adder transistor level implementation using CMOS Mirror Logic
-      https://youtu.be/BflzLRjsECM
-      
-    . Sanjay Vidhyadharan, 1-Bit Full Adder implementation using CMOS Mirror Logic
-      https://youtu.be/AXU_J4wr_yA
+     
+ ## References
+  - S. Dhanjal. 1-Bit Full Adder transistor level implementation using CMOS Mirror Logic
+  https://youtu.be/BflzLRjsECM
+  
+  - Sanjay Vidhyadharan, 1-Bit Full Adder implementation using CMOS Mirror Logic
+  https://youtu.be/AXU_J4wr_yA
+     
  
 
    
