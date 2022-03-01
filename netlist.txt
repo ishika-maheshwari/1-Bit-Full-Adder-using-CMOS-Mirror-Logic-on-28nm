@@ -1,0 +1,46 @@
+*Custom Compiler Version S-2021.09
+*Tue Mar  1 09:18:54 2022
+
+*.SCALE METER
+*.LDD
+.GLOBAL gnd!
+********************************************************************************
+* Library          : full_adder
+* Cell             : full_adder_gate
+* View             : schematic
+* View Search List : auCdl schematic
+* View Stop List   : auCdl
+********************************************************************************
+.subckt full_adder_gate A B C Carry Sum VDD
+*.PININFO A:I B:I C:I Carry:O Sum:O VDD:I
+MM36 Sum Sum_Bar VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM24 net131 C net113 VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM18 net80 A VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM19 Sum_Bar Carry_Bar net80 VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM22 net94 A VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM25 net80 B VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM21 net80 C VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM26 net113 B net94 VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM11 Carry Carry_Bar VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM4 net19 B net17 VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM3 net17 A VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM2 Carry_Bar C net7 VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM1 net7 B VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM0 net7 A VDD VDD p105 w=0.1u l=0.03u nf=1 m=1
+MM38 Sum Sum_Bar gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM34 net149 A gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM35 net147 B net149 gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM31 net131 C net147 gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM33 net119 C gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM29 net119 B gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM28 net119 A net121 net121 n105 w=0.1u l=0.03u nf=1 m=1
+MM27 Sum_Bar Carry_Bar net119 gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM10 Carry Carry_Bar gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM9 net37 A net171 net171 n105 w=0.1u l=0.03u nf=1 m=1
+MM8 net33 B gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM7 net33 A gnd! gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM6 net19 B net37 gnd! n105 w=0.1u l=0.03u nf=1 m=1
+MM5 Carry_Bar C net33 gnd! n105 w=0.1u l=0.03u nf=1 m=1
+.ends full_adder_gate
+
+
