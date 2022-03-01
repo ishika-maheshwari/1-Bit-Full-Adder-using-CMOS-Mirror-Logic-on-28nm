@@ -46,11 +46,11 @@ Another form in which C-OUT can be implemented:
 = AB + C-IN (A’ B + A B’)
 Therefore COUT = AB + C-IN (A EX – OR B)
 ## Tools Used
-   -.Synopsys Custom Compiler:  The Synopsys Custom Compiler design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+   - Synopsys Custom Compiler:  The Synopsys Custom Compiler design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
     
-   -.Synopsys Primewave:  PrimeWave Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+   - Synopsys Primewave:  PrimeWave Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
     
-   -.Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+   - Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
     
  ## Reference Circuit
    ![Reference_Schematic](https://user-images.githubusercontent.com/100487671/156157820-590d7c37-bf76-4f81-8296-ae706e24dbf8.jpeg)
@@ -79,11 +79,11 @@ Therefore COUT = AB + C-IN (A EX – OR B)
     - Ishika Maheshwari, BTech Electronics and Commuincations, ABES Engineering College, Ghaziabad, Uttar Pradesh.
  
  ## Acknowledgement
-     . Cloud Based Analog IC Design Hackathon
-     . Synopsys India
-     . Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
-     . Chinmay panda, IIT Hyderabad
-     . Sameer Durgoji, NIT Karnataka
+     - Cloud Based Analog IC Design Hackathon
+     - Synopsys India
+     - Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+     - Chinmay panda, IIT Hyderabad
+     - Sameer Durgoji, NIT Karnataka
      
  # References
     . S. Dhanjal. 1-Bit Full Adder transistor level implementation using CMOS Mirror Logic
