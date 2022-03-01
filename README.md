@@ -3,6 +3,7 @@
 ## Table of Content
 - Abstract
 - Circuit Details
+- Truth Table
 - Tools Used
 - Reference Circuit
 - Reference Waveform
@@ -20,6 +21,7 @@
 -  A full adder circuit is central to most digital circuits that perform addition or subtraction. It is so called because it adds together two binary digits, plus a carry-in digit to produce a sum and carry-out digit. Therefore, it has three inputs and two outputs.1-Bit Full Adder can be used to implement other circuits such as Multipliers,Carry Look Head.A 1-bit full adder using CMOS mirror logic is designed and implemented in this repository. The implementation will be done in 28nm technology node using Synopsys tools.The reference waveforms will be verified with actual waveforms obtained from simulation.The major drawback of the CMOS mirror circuit is that it consumes more power and occupies more area due to the greater number of transistors used.
  ## Circuit Details
 ![diagram](https://user-images.githubusercontent.com/100487671/156156740-83fb1b4d-3b2c-416f-987f-b1d9e57b109b.PNG)
+ ## Truth Table
 ![Truth_Table](https://user-images.githubusercontent.com/100487671/156156781-79e2704a-7a0a-4fcd-9a50-063644368f41.PNG)
 Logical Expression for SUM:
 = A’ B’ C-IN + A’ B C-IN’ + A B’ C-IN’ + A B C-IN
