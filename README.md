@@ -76,7 +76,7 @@ Therefore COUT = AB + C-IN (A EX – OR B)
     - The Reference circuit of 1-Bit Full Adder using CMOS mirror logic is successfully implemented using Synopsys tools and simulation waveforms are obtained. The obtained waveforms match with the reference waveforms.
 
 ## Author
-    - Ishika Maheshwari, BTech Electronics and commuincations, ABESEC, Ghaziabad, Uttar Pradesh.
+    - Ishika Maheshwari, BTech Electronics and Commuincations, ABES Engineering College, Ghaziabad, Uttar Pradesh.
  
  ## Acknowledgement
      . Cloud Based Analog IC Design Hackathon
