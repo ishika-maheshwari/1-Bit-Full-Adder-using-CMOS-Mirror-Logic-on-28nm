@@ -62,8 +62,10 @@ Therefore COUT = AB + C-IN (A EX – OR B)
    
    # Schematic
    ![schematic_synopsys](https://user-images.githubusercontent.com/100487671/156159551-19f63d93-5b9d-498f-b87f-d51807b18d0b.PNG)
-   # Waveform
    
+   # Waveform
+   ![wffff](https://user-images.githubusercontent.com/100487671/156164382-5d791791-364c-4dd5-9a96-9480ef8256e5.PNG)
+
    # Delay
    ![syn_delay](https://user-images.githubusercontent.com/100487671/156160465-1b5e4f0e-e685-4362-be61-ef361801e97f.PNG)
    
