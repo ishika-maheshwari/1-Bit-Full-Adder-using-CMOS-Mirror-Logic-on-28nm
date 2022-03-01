@@ -1,5 +1,5 @@
 # Full_Adder-using_CMOS_Mirror_Logic_on_28nm
--This repository presents the Design of 1-Bit Full Adder. Performance improvement of Full Adder has been done by using XOR & AND gates.. Design is implemented using Synopsys Custom Compiler on 28nm CMOS Technology.
+- This repository presents the Design of 1-Bit Full Adder. Performance improvement of Full Adder has been done by using XOR & AND gates.. Design is implemented using Synopsys Custom Compiler on 28nm CMOS Technology.
 ## Table of Content
 - Abstract
 - Circuit Details
@@ -59,18 +59,18 @@ Therefore COUT = AB + C-IN (A EX – OR B)
   ## Reference Waveform
   ![Refernce_Waveform](https://user-images.githubusercontent.com/100487671/156157923-bd770069-c36a-4118-b20b-116cb7e8d6e2.jpeg)
   
-## Simulation in Synopsys
+# Simulation in Synopsys
    
-   # Schematic
+   ## Schematic
    ![schematic_synopsys](https://user-images.githubusercontent.com/100487671/156159551-19f63d93-5b9d-498f-b87f-d51807b18d0b.PNG)
    
-   # Waveform
+   ## Waveform
    ![wffff](https://user-images.githubusercontent.com/100487671/156164382-5d791791-364c-4dd5-9a96-9480ef8256e5.PNG)
 
-   # Delay
+   ## Delay
    ![syn_delay](https://user-images.githubusercontent.com/100487671/156160465-1b5e4f0e-e685-4362-be61-ef361801e97f.PNG)
    
-   # Average Power
+   ## Average Power
    ![synopsys_power](https://user-images.githubusercontent.com/100487671/156160520-7d362f6f-d2af-41ab-abc2-ac3c862a4ae5.PNG)
    
    ## Conclusion
