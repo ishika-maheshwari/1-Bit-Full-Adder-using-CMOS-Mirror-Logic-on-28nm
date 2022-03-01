@@ -12,7 +12,6 @@
 - Waveform
 - Delay
 - Average Power
-- Netlist
 - Conclusion
 - Author
 - Acknowledgement
