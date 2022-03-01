@@ -79,11 +79,11 @@ Therefore COUT = AB + C-IN (A EX – OR B)
     - Ishika Maheshwari, BTech Electronics and Commuincations, ABES Engineering College, Ghaziabad, Uttar Pradesh.
  
  ## Acknowledgement
-     - Cloud Based Analog IC Design Hackathon
-     - Synopsys India
-     - Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
-     - Chinmay panda, IIT Hyderabad
-     - Sameer Durgoji, NIT Karnataka
+ - Cloud Based Analog IC Design Hackathon
+ - Synopsys India
+ - Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+ - Chinmay panda, IIT Hyderabad
+ - Sameer Durgoji, NIT Karnataka
      
      
  ## References
